@@ -91,4 +91,4 @@ Luego presiona **F5** o ejecuta la tarea `Run Python File` con `main.py` abierto
 ## 👩‍💻 Autor
 
 Por: Pablo Alexander Ramón Mosquera
-Desarrollado como tarea académ de **Programación Orientada a Objetos**.  
+
